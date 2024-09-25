@@ -1,0 +1,4 @@
+api key setting to continue-> get it in promopt
+1. add existing product-> already added
+2. only side panel-> remove new tab + popup
+4. popup include only product list

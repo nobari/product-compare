@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "description": "Product comparison tool with AI/GPT",
+    "message": "Easily compare products by their core features, AI-driven insights using chatGPT, and user reviews"
+  },
+  "extensionName": {
+    "description": "Product Comparison AI/GPT Chrome Extension",
+    "message": "Product Comparison AI/GPT Chrome Extension"
+  }
+}

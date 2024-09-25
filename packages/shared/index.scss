@@ -1,0 +1,14 @@
+//bootstrap
+@import 'bootstrap/scss/bootstrap';
+@import 'highlight.js/scss/github-dark.scss';
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400&family=Kaushan+Script&display=swap');
+
+.accordion {
+  --bs-body-bg: transparent;
+  --bs-accordion-btn-bg: #d3b076;
+}
+
+.btn-circle {
+  --bs-btn-border-radius: 50%;
+}
